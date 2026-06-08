@@ -12,9 +12,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,spring&theme=light" />
 
-<img src="./profile-summary-card-output/solarized-light/0-profile-details.svg"/>
+<img src="./profile-summary-card-output/solarized/0-profile-details.svg"/>
 <p align="center">
-<img src="./profile-summary-card-output/solarized-light/1-repos-per-language.svg"/>
+<img src="./profile-summary-card-output/solarized/1-repos-per-language.svg"/>
 </p>
 
 </div>
