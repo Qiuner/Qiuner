@@ -17,11 +17,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Qiuner
+          BRANCH_NAME: main
           UTC_OFFSET: 8
+          AUTO_PUSH: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THEME: solarized-light
