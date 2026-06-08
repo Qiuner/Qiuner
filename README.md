@@ -12,9 +12,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,spring&theme=light" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qiuner&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&include_all_commits=true"/>
+<img src="./profile-summary-card-output/solarized-light/0-profile-details.svg"/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiuner&layout=compact&theme=solarized-light&hide_border=true"/>
+<img src="./profile-summary-card-output/solarized-light/1-repos-per-language.svg"/>
 </p>
 
 </div>
