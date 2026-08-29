@@ -1,20 +1,13 @@
-<div align="center">
 
-<h5 align="center">你好！ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="25"/> 我是 Qiuner</h5>
-
-<p align="center">喜欢 AI · 编程 · 游戏 · 探索新鲜事物</p>
-
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Full+Stack+Developer;Game+Lover"/>
+<a href="https://github.com/Qiuner?tab=repositories">
+  <img align="right" src="./profile-summary-card-output/github/3-stats.svg" width="340" alt="Qiuner's GitHub stats" />
 </a>
-</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,spring&theme=light" />
+<h5>你好！ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="25"/> 我是 Qiuner</h5>
+<p>多平台技术博主，专注 AI 领域</p>
+<p>Multi-platform technical blogger focused on AI.</p>
+<p>I care about AI product experience, desktop architecture, plugin ecosystems, and the engineering details that make software feel reliable.</p>
+<p>打造 <a href="https://github.com/Qiuner/claude-nexus"><b>claude-nexus</b></a>——在日常使用 Claude 的过程中，发现并实现了一些能显著提升产品体验的功能；维护 <a href="https://github.com/Qiuner/ai-application-roadmap"><b>ai-application-roadmap</b></a>——记录我对 AI 时代百家争鸣，你方唱罢我登场现象的观察与思考。</p>
+<p>参与 <a href="https://github.com/anywhere-labs/dsh-desktop"><b>dsh-desktop</b></a> 项目，在桌面端架构、插件生态与工程稳定性方面持续贡献；同时也为 DSH 生态下的 <a href="https://github.com/ccch1mneyyy/dsh-TUI"><b>dsh-TUI</b></a> 与 <a href="https://github.com/zhu1090093659/dsh-web"><b>dsh-web-ui</b></a> 做出过贡献。</p>
 
-<img src="./profile-summary-card-output/solarized/0-profile-details.svg"/>
-<p align="center">
-<img src="./profile-summary-card-output/solarized/3-stats.svg"/>
-</p>
-
-</div>
+<br clear="right" />

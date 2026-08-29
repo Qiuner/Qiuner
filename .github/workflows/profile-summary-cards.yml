@@ -26,7 +26,19 @@ jobs:
           USERNAME: Qiuner
           BRANCH_NAME: main
           UTC_OFFSET: 8
-          AUTO_PUSH: true
+          AUTO_PUSH: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: solarized-light
+          THEME: github
+
+      - name: Embed avatar in stats card
+        run: python .github/scripts/embed_stats_avatar.py
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add profile-summary-card-output README.md
+          git commit -m "Update profile summary cards"
+          git push
