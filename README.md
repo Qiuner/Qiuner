@@ -12,5 +12,6 @@
 <p>Creating <a href="https://github.com/Qiuner/birdview"><b>Birdview</b></a> around Architecture-first Coding: I believe the future of programming comes down to constraints and architecture. AI should make its understanding of a project and its intended change scope visible before implementation, so people can review and confirm the plan first.</p>
 <p>参与 <a href="https://github.com/anywhere-labs/dsh-desktop"><b>dsh-desktop</b></a> 项目，在桌面端架构、插件生态与工程稳定性方面持续贡献；同时也为 DSH 生态下的 <a href="https://github.com/ccch1mneyyy/dsh-TUI"><b>dsh-TUI</b></a> 与 <a href="https://github.com/zhu1090093659/dsh-web"><b>dsh-web-ui</b></a> 做出过贡献。</p>
 <p>Contributing to <a href="https://github.com/anywhere-labs/dsh-desktop"><b>dsh-desktop</b></a> across desktop architecture, plugin ecosystems, and engineering stability, as well as to <a href="https://github.com/ccch1mneyyy/dsh-TUI"><b>dsh-TUI</b></a> and <a href="https://github.com/zhu1090093659/dsh-web"><b>dsh-web-ui</b></a> in the DSH ecosystem.</p>
+<p><sub>Exploring a future of programming shaped by constraints, architecture, and human-guided AI.</sub></p>
 
 <br clear="right" />
