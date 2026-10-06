@@ -1,16 +1,22 @@
-# Hi, I'm Qiuner 👋
+<a href="https://github.com/Qiuner?tab=repositories">
+  <img align="right" src="./profile-summary-card-output/github/3-stats.svg" width="340" alt="Qiuner's GitHub stats" />
+</a>
+
+<h3>Hi, I'm Qiuner 👋</h3>
 
 **AI-focused developer and multi-platform tech blogger.**
 
 I believe the future of programming comes down to *constraints and architecture*: AI should show its understanding and its plan before it writes code, and humans should approve that plan.
 
+<br clear="right" />
+
 ## 🚀 What I'm building
 
-| Project | What it is | Role |
-|---|---|---|
-| [**Birdview**](https://github.com/Qiuner/birdview) | Architecture-first Coding: AI presents its understanding and change scope for human review before implementing | Creator |
-| [**claude-nexus**](https://github.com/Qiuner/claude-nexus) | Features that improve the everyday Claude experience | Creator |
-| [**ai-application-roadmap**](https://github.com/Qiuner/ai-application-roadmap) | Notes on how AI applications evolve and compete | Maintainer |
+| Project | What it is |
+|---|---|
+| [**Birdview**](https://github.com/Qiuner/birdview) | Architecture-first Coding: AI presents its understanding and change scope for human review before implementing |
+| [**claude-nexus**](https://github.com/Qiuner/claude-nexus) | Features that improve the everyday Claude experience |
+| [**ai-application-roadmap**](https://github.com/Qiuner/ai-application-roadmap) | Notes on how AI applications evolve and compete |
 
 ## 🤝 Contributing to
 
@@ -30,7 +36,3 @@ I believe the future of programming comes down to *constraints and architecture*
 - 参与 [**dsh-desktop**](https://github.com/anywhere-labs/dsh-desktop) 的开发，在桌面端架构、插件生态和稳定性方面贡献；也为 DSH 生态下的 [**dsh-TUI**](https://github.com/ccch1mneyyy/dsh-TUI) 和 [**dsh-web-ui**](https://github.com/zhu1090093659/dsh-web) 做出过贡献。
 
 </details>
-
----
-
-[![Qiuner's GitHub stats](./profile-summary-card-output/github/3-stats.svg)](https://github.com/Qiuner?tab=repositories)
