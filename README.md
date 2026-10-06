@@ -10,7 +10,7 @@ I believe the future of programming comes down to *constraints and architecture*
 
 <br clear="right" />
 
-## 🚀 What I'm building
+## Projects & contributions
 
 | Project | What it is |
 |---|---|
@@ -18,7 +18,7 @@ I believe the future of programming comes down to *constraints and architecture*
 | [**claude-nexus**](https://github.com/Qiuner/claude-nexus) | Features that improve the everyday Claude experience |
 | [**ai-application-roadmap**](https://github.com/Qiuner/ai-application-roadmap) | Notes on how AI applications evolve and compete |
 
-## 🤝 Contributing to
+I also contribute to:
 
 - [**dsh-desktop**](https://github.com/anywhere-labs/dsh-desktop): desktop architecture, plugin ecosystem, stability
 - [**dsh-TUI**](https://github.com/ccch1mneyyy/dsh-TUI) and [**dsh-web-ui**](https://github.com/zhu1090093659/dsh-web) in the DSH ecosystem
