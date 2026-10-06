@@ -1,17 +1,36 @@
+# Hi, I'm Qiuner 👋
 
-<a href="https://github.com/Qiuner?tab=repositories">
-  <img align="right" src="./profile-summary-card-output/github/3-stats.svg" width="340" alt="Qiuner's GitHub stats" />
-</a>
+**AI-focused developer and multi-platform tech blogger.**
 
-<h5>你好！ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="25"/> 我是 Qiuner</h5>
-<p>多平台博客专家，专注 AI 领域</p>
-<p>Multi-platform blogging expert focused on AI.</p>
-<p>打造 <a href="https://github.com/Qiuner/claude-nexus"><b>claude-nexus</b></a>——在日常使用 Claude 的过程中，发现并实现了一些能显著提升产品体验的功能；维护 <a href="https://github.com/Qiuner/ai-application-roadmap"><b>ai-application-roadmap</b></a>——记录我对 AI 时代百家争鸣，你方唱罢我登场现象的观察与思考。</p>
-<p>Building <a href="https://github.com/Qiuner/claude-nexus"><b>claude-nexus</b></a> to improve the everyday Claude experience, and maintaining <a href="https://github.com/Qiuner/ai-application-roadmap"><b>ai-application-roadmap</b></a> to document how AI applications evolve and compete.</p>
-<p>发起 <a href="https://github.com/Qiuner/birdview"><b>Birdview</b></a>，践行 Architecture-first Coding：相信未来的编程归根结底是约束与架构，让 AI 在动手前先呈现对项目的理解和修改范围，由人审阅并确认后再进入实现。</p>
-<p>Creating <a href="https://github.com/Qiuner/birdview"><b>Birdview</b></a> around Architecture-first Coding: I believe the future of programming comes down to constraints and architecture. AI should make its understanding of a project and its intended change scope visible before implementation, so people can review and confirm the plan first.</p>
-<p>参与 <a href="https://github.com/anywhere-labs/dsh-desktop"><b>dsh-desktop</b></a> 项目，在桌面端架构、插件生态与工程稳定性方面持续贡献；同时也为 DSH 生态下的 <a href="https://github.com/ccch1mneyyy/dsh-TUI"><b>dsh-TUI</b></a> 与 <a href="https://github.com/zhu1090093659/dsh-web"><b>dsh-web-ui</b></a> 做出过贡献。</p>
-<p>Contributing to <a href="https://github.com/anywhere-labs/dsh-desktop"><b>dsh-desktop</b></a> across desktop architecture, plugin ecosystems, and engineering stability, as well as to <a href="https://github.com/ccch1mneyyy/dsh-TUI"><b>dsh-TUI</b></a> and <a href="https://github.com/zhu1090093659/dsh-web"><b>dsh-web-ui</b></a> in the DSH ecosystem.</p>
-<p><sub>Exploring a future of programming shaped by constraints, architecture, and human-guided AI.</sub></p>
+I believe the future of programming comes down to *constraints and architecture*: AI should show its understanding and its plan before it writes code, and humans should approve that plan.
 
-<br clear="right" />
+## 🚀 What I'm building
+
+| Project | What it is | Role |
+|---|---|---|
+| [**Birdview**](https://github.com/Qiuner/birdview) | Architecture-first Coding: AI presents its understanding and change scope for human review before implementing | Creator |
+| [**claude-nexus**](https://github.com/Qiuner/claude-nexus) | Features that improve the everyday Claude experience | Creator |
+| [**ai-application-roadmap**](https://github.com/Qiuner/ai-application-roadmap) | Notes on how AI applications evolve and compete | Maintainer |
+
+## 🤝 Contributing to
+
+- [**dsh-desktop**](https://github.com/anywhere-labs/dsh-desktop): desktop architecture, plugin ecosystem, stability
+- [**dsh-TUI**](https://github.com/ccch1mneyyy/dsh-TUI) and [**dsh-web-ui**](https://github.com/zhu1090093659/dsh-web) in the DSH ecosystem
+
+<details>
+<summary>🇨🇳 中文介绍</summary>
+
+专注 AI 领域的开发者和多平台技术博主。
+
+我相信，编程的未来归根结底在于**约束与架构**：AI 应该先展示它对项目的理解和实施计划，由人确认后再编写代码。
+
+- 发起 [**Birdview**](https://github.com/Qiuner/birdview)，践行 Architecture-first Coding：让 AI 在动手前先呈现对项目的理解和修改范围，由人审阅确认后再实现。
+- 打造 [**claude-nexus**](https://github.com/Qiuner/claude-nexus)，提升日常使用 Claude 的体验。
+- 维护 [**ai-application-roadmap**](https://github.com/Qiuner/ai-application-roadmap)，记录对 AI 应用演进与竞争的观察和思考。
+- 参与 [**dsh-desktop**](https://github.com/anywhere-labs/dsh-desktop) 的开发，在桌面端架构、插件生态和稳定性方面贡献；也为 DSH 生态下的 [**dsh-TUI**](https://github.com/ccch1mneyyy/dsh-TUI) 和 [**dsh-web-ui**](https://github.com/zhu1090093659/dsh-web) 做出过贡献。
+
+</details>
+
+---
+
+[![Qiuner's GitHub stats](./profile-summary-card-output/github/3-stats.svg)](https://github.com/Qiuner?tab=repositories)
